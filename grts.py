@@ -4,7 +4,7 @@ if N<=1000000:
     n=raw_input()
     a.extend([int(x) for x in n.split()])
     a.sort(reverse=True)
-    k=""
+    u=""
     for i in range(len(a)):
-                   k=k+str(a[i])
-    print(k)
+                   u=u+str(a[i])
+    print(u)
