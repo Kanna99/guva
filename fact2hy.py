@@ -5,4 +5,4 @@ if b<=20:
           fact=fact*i
      print fact
 else:
-print "invalid"
+     print "invalid"
