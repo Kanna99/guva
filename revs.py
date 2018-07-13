@@ -1,5 +1,5 @@
-num=int(input())
-c=nums[::-1]
+num=str(input())
+c=num[::-1]
 print(c)
 
 
